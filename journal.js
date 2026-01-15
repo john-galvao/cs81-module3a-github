@@ -12,3 +12,11 @@ function cube(x) {
 function isEven(n) {
   return n % 2 === 0;
 }
+// Subtracts b from a. If b is missing, returns the negative of a
+function subtract(a, b) {
+  if (b === undefined) {
+    return -a;
+  } else {
+    return a - b;
+  }
+}
