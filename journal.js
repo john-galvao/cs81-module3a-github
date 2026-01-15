@@ -7,3 +7,8 @@ function greet(name) {
 function cube(x) {
   return x * x * x;
 }
+
+// Returns true if the number is even, otherwise false
+function isEven(n) {
+  return n % 2 === 0;
+}
