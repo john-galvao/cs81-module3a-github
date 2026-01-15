@@ -1,6 +1,6 @@
 # cs81-module3a-github
 
-This repository contains my work for Module 3A of CS81.
+CS 81 Repository Module 3A
 
 ## journal.js Functions
 
