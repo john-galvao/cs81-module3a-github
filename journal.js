@@ -20,3 +20,10 @@ function subtract(a, b) {
     return a - b;
   }
 }
+
+// Returns a new function that remembers the "factor" value and multiplies by it
+function multiplier(factor) {
+  return function(number) {
+    return number * factor;
+  };
+}
