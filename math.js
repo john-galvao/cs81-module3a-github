@@ -17,3 +17,7 @@ function isOdd(n) {
 function multiply(a, b) {
   return a * b;
 }
+
+function half(n) {
+  return n / 2;
+}
