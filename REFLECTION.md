@@ -1,5 +1,7 @@
 ## Assignment 3A Reflection
 
-In my assignment, I practiced cloning a repo in GitHub, staging changes, writing commit messages, and pushing to GitHub. I also learned how to organize code changes into meaningful commits instead of doing everything at once.
+I learned how to add folders, commit changes, and push the changes to GitHub. This process in itself was confusing because you have to add the folder each time and write an individual commit message. 
 
-On the JS side, I reviewed function syntax, return values, optional parameters, and how a closure works. Writing comments for each function helped me think about what the code actually does, rather than just typing it out. Overall this assignment made me more comfortable with using Git and writing JavaScript functions.
+I think developers use Git in order to track changes in their projects, and share these changes with other developers. It allows collaboration, in my opinion. 
+
+This might help with larger projects in the future because not only will it allow developers to collaborate from across the United States and even the world, but it can keep everything organized and, if there are multiple people working on a single project, keeps track of all contributers and provides a degree of organization to the project.
