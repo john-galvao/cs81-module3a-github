@@ -24,3 +24,19 @@ console.log(square(1));
 16
 4
 1
+
+## Third function
+
+function isEven(n) {
+  return n % 2 === 0;
+}
+
+console.log(isEven(10));
+console.log(isEven(7));
+console.log(isEven(0));
+console.log(isEven(-4));
+
+true
+false
+true
+true
