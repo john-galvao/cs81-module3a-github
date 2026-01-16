@@ -70,3 +70,17 @@ console.log(multiply(5, 6));
 12
 20
 30
+
+## Sixth function
+
+function half(n) {
+  return n / 2;
+}
+
+console.log(half(5));
+console.log(half(2));
+console.log(half(1));
+
+2.5
+1
+0.5
