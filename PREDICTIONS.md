@@ -7,3 +7,5 @@ The third function will return 'true' if the number inputted is even, and 'false
 The fourth function will return 'true' when the number inputted is odd, and 'false' if it is not.
 
 The fifth function will return the product of any two numbers I input.
+
+The sixth function will take half the value of any number I input, or, in other words, divide it by two.
