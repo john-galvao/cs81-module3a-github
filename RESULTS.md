@@ -40,3 +40,17 @@ true
 false
 true
 true
+
+## Fourth function
+
+function isOdd(n) {
+  return n % 2 !== 0;
+}
+
+console.log(isOdd(10));
+console.log(isOdd(4));
+console.log(isOdd(3));
+
+false
+false
+true
