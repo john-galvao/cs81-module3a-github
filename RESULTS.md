@@ -54,3 +54,19 @@ console.log(isOdd(3));
 false
 false
 true
+
+## Fifth function
+
+function multiply(a, b) {
+  return a * b;
+}
+
+console.log(multiply(2, 3));
+console.log(multiply(3, 4));
+console.log(multiply(4, 5));
+console.log(multiply(5, 6));
+
+6
+12
+20
+30
